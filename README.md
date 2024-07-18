@@ -1,4 +1,4 @@
-# Jessup Cellars Wine Chatbot
+# PDF Chatbot
 
 This Streamlit-based chatbot provides information about PDF using the Gemini AI model.
 
