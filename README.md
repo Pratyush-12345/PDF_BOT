@@ -19,7 +19,7 @@ This Streamlit-based chatbot provides information about PDF using the Gemini AI 
 ## Setup
 
 1. Clone the repository:
-git clone 'https://github.com/your-username/jechatbot.git cd jessup-cellars-chatbot'
+git clone 'https://github.com/Pratyush-12345/PDF_BOT.git'
 
 
 2. Install dependencies:
